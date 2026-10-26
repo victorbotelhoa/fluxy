@@ -1,0 +1,16 @@
+{
+  "id": "003",
+  "name": "zVoldemort Sombrio",
+  "description": "zVoldemort em sua forma sombria,\ncom controle total sobre o fogo.",
+  "rarity": "rare",
+  "img_path": "../../../assets/cards/volder.nether.png",
+  "weapon": null,
+  "skills": [
+    {"name": "Rajada de Fogo", "type": "damage", "value": 8, "description": "Um disparo rápido de chamas contra o inimigo.", "cooldown": 1},
+    {"name": "Chuva de Fogo", "type": "damage", "value": 15, "description": "Labaredas caem do céu atingindo vários pontos.", "cooldown": 2},
+    {"name": "Lança Ígnea", "type": "damage", "value": 18, "description": "Cria uma lança de fogo que perfura o inimigo.", "cooldown": 3},
+    {"name": "Explosão Escaldante", "type": "damage", "value": 20, "description": "Explosão ardente em área, difícil de escapar.", "cooldown": 3},
+    {"name": "Raio Incandescente", "type": "damage", "value": 22, "description": "Um raio de calor concentrado que atravessa defesas.", "cooldown": 4},
+    {"name": "Fogo de Fênix", "type": "heal", "value": 25, "description": "Chamas sagradas que restauram vitalidade com poder da Fênix.", "cooldown": 4}
+  ]
+}

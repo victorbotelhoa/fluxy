@@ -1,0 +1,9 @@
+{
+  "id": "002",
+  "name": "zVoldemort Eterno",
+  "description": "zVoldemort em sua forma\nmais poderosa,\nem ligação com a \neternidade.",
+  "rarity": "Raro",
+  "img_path": "../../../assets/cards/volder.eternity.png",
+  "weapon": null,
+  "skills": []
+}

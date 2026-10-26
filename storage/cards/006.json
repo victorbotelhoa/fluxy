@@ -1,0 +1,16 @@
+{
+  "id": "006",
+  "name": "Fluxy Angelical",
+  "description": "Fluxy em sua forma Angelical.\nCapaz de controlar o Vento, Água e a Luz.",
+  "rarity": "Lendário",
+  "img_path": "../../../assets/cards/fluxy.angel.png",
+  "weapon": null,
+  "skills": [
+    {"name": "Lâmina Celestial", "type": "damage", "value": 18, "description": "Lâminas de luz pura que cortam inimigos com precisão divina.", "cooldown": 2},
+    {"name": "Tempestade Serafim", "type": "damage", "value": 20, "description": "Tempestade de vento e água causando dano em área.", "cooldown": 3},
+    {"name": "Brilho Curativo", "type": "heal", "value": 22, "description": "Luz radiante que regenera a vida da própria Fluxy Angelical.", "cooldown": 4},
+    {"name": "Furacão Luminoso", "type": "damage", "value": 16, "description": "Redemoinho de vento com partículas brilhantes.", "cooldown": 3},
+    {"name": "Chuva de Purificação", "type": "heal", "value": 18, "description": "Chuva luminosa que regenera vida da própria Fluxy Angelical.", "cooldown": 4},
+    {"name": "Véu de Luz e Névoa", "type": "heal", "value": 15, "description": "Manto protetor que regenera a vida.", "cooldown": 5}
+  ]
+}

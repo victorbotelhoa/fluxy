@@ -1,0 +1,15 @@
+{
+  "id": "005",
+  "name": "Aurora",
+  "description": "Bruxa de poder médio, odiada por bruxos e bots.\nConhecida como a lendária Vaca Rosa.",
+  "rarity": "Comum",
+  "img_path": "../../../assets/cards/aurora.png",
+  "weapon": null,
+  "skills": [
+    {"name": "Rajada de Pétalas", "type": "damage", "value": 12, "description": "Redemoinho de pétalas afiadas.", "cooldown": 2},
+    {"name": "Aura Doce", "type": "heal", "value": 10, "description": "Aura que regenera lentamente a vida dos aliados.", "cooldown": 3},
+    {"name": "Chicote Floral", "type": "damage", "value": 14, "description": "Chicote de vinhas floridas, causa dano e atordoamento.", "cooldown": 3},
+    {"name": "Explosão de Confete", "type": "damage", "value": 10, "description": "Explosão colorida que causa dano leve.", "cooldown": 3},
+    {"name": "Bênção da Vaca Rosa", "type": "heal", "value": 15, "description": "Escudo temporário que regenera vida.", "cooldown": 5}
+  ]
+}

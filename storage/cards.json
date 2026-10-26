@@ -1,0 +1,263 @@
+[
+  
+    {
+        "img_url": "../../../assets/cards/volder.nether.png",
+        "name": "Guerreiro Eterno",
+        "description": "Guerreiro forte e resistente,\nlutando sem medo até o fim.",
+        "rarity": "Raro",
+        "ID": "0001"
+    },
+    {
+        "img_url": "../../../assets/cards/volder.nether.png",
+        "name": "Ignarok",
+        "description": "Bruxo capaz de Controlar o fogo.",
+        "powers": {
+            "p1": {
+                "name": "Rajada de Fogo",
+                "type": "damage",
+                "value": 8,
+                "description": "Um disparo rápido de chamas contra o inimigo.",
+                "cooldown": 1
+            },
+            "p2": {
+                "name": "Chuva de Fogo",
+                "type": "damage",
+                "value": 15,
+                "description": "Labaredas caem do céu atingindo vários pontos.",
+                "cooldown": 2
+            },
+            "p3": {
+                "name": "Lança Ígnea",
+                "type": "damage",
+                "value": 18,
+                "description": "Cria uma lança de fogo que perfura o inimigo.",
+                "cooldown": 3
+            },
+            "p4": {
+                "name": "Explosão Escaldante",
+                "type": "damage",
+                "value": 20,
+                "description": "Explosão ardente em área, difícil de escapar.",
+                "cooldown": 3
+            },
+            "p5": {
+                "name": "Raio Incandescente",
+                "type": "damage",
+                "value": 22,
+                "description": "Um raio de calor concentrado que atravessa defesas.",
+                "cooldown": 4
+            },
+            "p6": {
+                "name": "Fogo de Fênix",
+                "type": "heal",
+                "value": 25,
+                "description": "Chamas sagradas que restauram vitalidade com poder da Fênix.",
+                "cooldown": 4
+            }
+        },
+
+        "rarity": "Raro",
+        "ID": "0002"
+    },
+
+    {
+        "img_url": "../../../assets/cards/volder.nether.png",
+        "name": "Glith",
+        "description": "Encarnação de glith e bugs...",
+       "powers": {
+            "p1": {
+                "name": "Falha no Sistema",
+                "type": "damage",
+                "value": 12,
+                "description": "Causa uma sobrecarga que faz o inimigo travar temporariamente.",
+                "cooldown": 2
+            },
+            "p2": {
+                "name": "Bug Explosivo",
+                "type": "damage",
+                "value": 18,
+                "description": "Explode um bug invisível causando dano inesperado em área.",
+                "cooldown": 3
+            },
+            "p3": {
+                "name": "Desconexão Forçada",
+                "type": "damage",
+                "value": 10,
+                "description": "Interrompe as ações do inimigo, causando atraso no próximo ataque.",
+                "cooldown": 2
+            },
+            "p4": {
+                "name": "Fragmentação de Código",
+                "type": "damage",
+                "value": 14,
+                "description": "Divide o código inimigo, causando dano múltiplo em ataques consecutivos.",
+                "cooldown": 3
+            },
+            "p5": {
+                "name": "Reset Inesperado",
+                "type": "heal",
+                "value": 20,
+                "description": "Restaura parte da energia e limpa status negativos.",
+                "cooldown": 4
+            },
+            "p6": {
+                "name": "Loop Infinito",
+                "type": "damage",
+                "value": 16,
+                "description": "Prende o inimigo em um ciclo de erro, causando dano contínuo por 2 turnos.",
+                "cooldown": 5
+            }
+            },
+
+        "rarity": "Lendário???",
+        "ID": "0003"
+    },
+    {
+        "img_url": "https://cdn.discordapp.com/attachments/1304940131555213353/1312281609021558784/vacarosa.png?ex=674becfc&is=674a9b7c&hm=085a212fdc953e2e95c4ed53948c92386404dc5c4c58449903bc285a2b072138&",
+        "name": "Aurora",
+        "description": "Bruxa de poder médio,\nodiada por bruxos e bots.\nConhecida como a\nlendária Vaca Rosa.",
+        "powers": {
+            "p1": {
+                "name": "Rajada de Pétalas",
+                "type": "damage",
+                "value": 12,
+                "description": "Lança um redemoinho de pétalas afiadas que cortam o inimigo.",
+                "cooldown": 2
+            },
+            "p2": {
+                "name": "Aura Doce",
+                "type": "heal",
+                "value": 10,
+                "description": "Emana uma aura que regenera lentamente a vida dos aliados próximos.",
+                "cooldown": 3
+            },
+            "p3": {
+                "name": "Chicote Floral",
+                "type": "damage",
+                "value": 14,
+                "description": "Ataca com um chicote de vinhas floridas, causando dano e atordoando o inimigo.",
+                "cooldown": 3
+            },
+            "p4": {
+                "name": "Explosão de Confete",
+                "type": "damage",
+                "value": 10,
+                "description": "Dispara uma explosão colorida que causa dano leve.",
+                "cooldown": 3
+            },
+            "p5": {
+                "name": "Bênção da Vaca Rosa",
+                "type": "heal",
+                "value": 15,
+                "description": "Concede um escudo temporário que regenera vida.",
+                "cooldown": 5
+            }
+            },
+
+        "rarity": "Comum",
+        "ID": "0004"
+    },
+    {
+        "img_url": "https://cdn.discordapp.com/attachments/1314820419316093008/1379563501382668299/fluxycardangel.png?ex=6840b221&is=683f60a1&hm=f5575e900b9efaf802fbe5b0f5dc7940054e259d9357ebaab9ae415a18f38b7c&",
+        "name": "Fluxy Angelical",
+        "description": "Fluxy em sua forma Angelical.\n Capaz de controlar o Vento,\n Água e a Luz.",
+        "powers": {
+            "p1": {
+                "name": "Lâmina Celestial",
+                "type": "damage",
+                "value": 18,
+                "description": "Cria lâminas de luz pura que cortam inimigos com precisão divina.",
+                "cooldown": 2
+            },
+            "p2": {
+                "name": "Tempestade Serafim",
+                "type": "damage",
+                "value": 20,
+                "description": "Invoca uma tempestade de vento e água que causa dano em área, derrubando adversários.",
+                "cooldown": 3
+            },
+            "p3": {
+                "name": "Brilho Curativo",
+                "type": "heal",
+                "value": 22,
+                "description": "Uma luz radiante que regenera a vida da própria Fluxy Angelical.",
+                "cooldown": 4
+            },
+            "p4": {
+                "name": "Furacão Luminoso",
+                "type": "damage",
+                "value": 16,
+                "description": "Um redemoinho de vento carregado de partículas brilhantes que confunde e fere inimigos.",
+                "cooldown": 3
+            },
+            "p5": {
+                "name": "Chuva de Purificação",
+                "type": "heal",
+                "value": 18,
+                "description": "Uma chuva suave e luminosa que regenera a vida da própria Fluxy Angelical.",
+                "cooldown": 4
+            },
+            "p6": {
+                "name": "Véu de Luz e Névoa",
+                "type": "heal",
+                "value": 15,
+                "description": "Cobre a própria Fluxy Angelical com um manto protetor que regenera sua vida.",
+                "cooldown": 5
+            }
+            },
+
+        "rarity": "Lendário",
+        "ID": "0005"
+    },
+    {
+        "img_url": "https://cdn.discordapp.com/attachments/1314820419316093008/1379564654652821565/fluxycard.png?ex=6840b334&is=683f61b4&hm=de0bc93c5e9115ff71e9e262171f7936a265ec4e034c5409f42dda25319cc733&",
+        "name": "Fluxy",
+        "description": "Bruxa que domina água e o vento,\nusando magia para proteger e atacar.",
+        "powers": {
+            "p1": {
+                "name": "Corte Fluvial",
+                "type": "damage",
+                "value": 15,
+                "description": "Cria lâminas afiadas de água para cortar o inimigo.",
+                "cooldown": 2
+            },
+            "p2": {
+                "name": "Rajada Tempestuosa",
+                "type": "damage",
+                "value": 12,
+                "description": "Sopra um vento forte que derruba inimigos e causa dano.",
+                "cooldown": 2
+            },
+            "p3": {
+                "name": "Redemoinho Aquático",
+                "type": "damage",
+                "value": 14,
+                "description": "Gira um turbilhão de água e vento que prende inimigos e causa dano contínuo.",
+                "cooldown": 3
+            },
+            "p4": {
+                "name": "Brisa Cortante",
+                "type": "damage",
+                "value": 10,
+                "description": "Um vento afiado como navalha que causa dano rápido e preciso.",
+                "cooldown": 1
+            },
+            "p5": {
+                "name": "Brisa Revitalizante",
+                "type": "heal",
+                "value": 20,
+                "description": "Uma suave brisa úmida que regenera a vida da própria Fluxy.",
+                "cooldown": 4
+            },
+            "p6": {
+                "name": "Tornado Aquático",
+                "type": "damage",
+                "value": 18,
+                "description": "Combina água e vento em um tornado que arrasta e fere múltiplos adversários.",
+                "cooldown": 4
+            }
+            },
+        "rarity": "Épico",
+        "ID": "0006"
+    }
+]

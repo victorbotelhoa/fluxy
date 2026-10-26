@@ -1,0 +1,58 @@
+{
+  "id": "008",
+  "name": "Eternidade",
+  "description": "Entidade que representa a vida\ne a criação.",
+  "rarity": "exotic",
+  "img_path": "../../../assets/cards/eternity.png",
+  "weapon": {
+    "name": "Prisma",
+    "description": "Capaz de prender a alma do oponente dentro de si.",
+    "damage": 35,
+    "var": true,
+    "cooldown": 50
+  },
+  "skills": [
+    {
+      "name": "Rajada Elemental",
+      "type": "damage", 
+      "value": 16,
+      "description": "Quando atingido, o oponente recebe uma carga de elementos variados.",
+      "cooldown": 48
+    },
+    {
+      "name": "Sufocamento Dimensional",
+      "type": "damage", 
+      "value": 25,
+      "description": "Teletransporta o oponente para uma dimensão aparente inofensiva, porém, a vida do oponente é drenada com a ilusão.",
+      "cooldown": 20
+    },
+    {
+      "name": "Esmagamento Material",
+      "type": "damage", 
+      "value": 31,
+      "description": "Manipula a matéria do espaço na direção do oponente, e cria corpos físicos esmagadores contra o inimigo.",
+      "cooldown": 14
+    },
+    {
+      "name": "Insolação Estelar",
+      "type": "damage", 
+      "value": 40,
+      "description": "Cria uma estrela pequena acima do oponente, capaz de derretê-lo em grande parte.",
+      "cooldown": 60
+    },
+    {
+      "name": "Prisão do Vácuo",
+      "type": "damage", 
+      "value": 10,
+      "description": "Prende o oponente em uma prisão espacial vazia.",
+      "cooldown": 12
+    },
+    {
+      "name": "Regeneração da Vida",
+      "type": "heal", 
+      "value": 35,
+      "description": "Regenera a vida do usuário ou do companheiro",
+      "cooldown": 60
+    }
+  ]
+}

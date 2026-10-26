@@ -1,0 +1,23 @@
+{
+  "id": "000",
+  "name": "",
+  "description": "",
+  "rarity": "",
+  "img_path": "../../../assets/cards/",
+  "weapon": {
+    "name": "",
+    "description": "",
+    "damage": 0,
+    "var": true
+  },
+  "skills": [
+    {
+      "name": "",
+      "type": "damage", 
+      "value": 0,
+      "description": "",
+      "cooldown": 0,
+      "var": false
+    }
+  ]
+}

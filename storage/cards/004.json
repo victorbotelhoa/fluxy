@@ -1,0 +1,16 @@
+{
+  "id": "004",
+  "name": "Glitch",
+  "description": "Encarnação de glitch e bugs...",
+  "rarity": "Lendário",
+  "img_path": "../../../assets/cards/glith.png",
+  "weapon": null,
+  "skills": [
+    {"name": "Falha no Sistema", "type": "damage", "value": 12, "description": "Causa sobrecarga que faz o inimigo travar temporariamente.", "cooldown": 2},
+    {"name": "Bug Explosivo", "type": "damage", "value": 18, "description": "Explode um bug invisível causando dano inesperado em área.", "cooldown": 3},
+    {"name": "Desconexão Forçada", "type": "damage", "value": 10, "description": "Interrompe ações do inimigo, atrasando próximo ataque.", "cooldown": 2},
+    {"name": "Fragmentação de Código", "type": "damage", "value": 14, "description": "Divide código inimigo, causando dano múltiplo.", "cooldown": 3},
+    {"name": "Reset Inesperado", "type": "heal", "value": 20, "description": "Restaura parte da energia e limpa status negativos.", "cooldown": 4},
+    {"name": "Loop Infinito", "type": "damage", "value": 16, "description": "Prende inimigo em ciclo de erro causando dano contínuo.", "cooldown": 5}
+  ]
+}

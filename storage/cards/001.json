@@ -1,0 +1,57 @@
+{
+  "id": "001",
+  "name": "Fluxy",
+  "description": "Feiticeira que domina água e o vento,\nusando magia para proteger e atacar.",
+  "rarity": "Épico",
+  "img_path": "../../../assets/cards/fluxy.png",
+  "weapon": {
+    "name": "Varinha de Elmo",
+    "description": "Realiza feitiços complexos e mais poderosos.",
+    "damage": 30,
+    "var": true
+  },
+  "skills": [
+    {
+      "name": "Corte Fluvial",
+      "type": "damage",
+      "value": 15,
+      "description": "Cria lâminas afiadas de água para cortar o inimigo.",
+      "cooldown": 2
+    },
+    {
+      "name": "Rajada Tempestuosa",
+      "type": "damage",
+      "value": 12,
+      "description": "Sopra um vento forte que derruba inimigos.",
+      "cooldown": 2
+    },
+    {
+      "name": "Redemoinho Aquático",
+      "type": "damage",
+      "value": 14,
+      "description": "Turbilhão que prende inimigos.",
+      "cooldown": 3
+    },
+    {
+      "name": "Brisa Cortante",
+      "type": "damage",
+      "value": 10,
+      "description": "Vento afiado como navalha.",
+      "cooldown": 1
+    },
+    {
+      "name": "Brisa Revitalizante",
+      "type": "heal",
+      "value": 20,
+      "description": "Regenera vida com uma brisa suave.",
+      "cooldown": 4
+    },
+    {
+      "name": "Tornado Aquático",
+      "type": "damage",
+      "value": 18,
+      "description": "Tornado que arrasta inimigos.",
+      "cooldown": 4
+    }
+  ]
+}

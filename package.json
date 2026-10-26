@@ -1,0 +1,29 @@
+{
+  "name": "fluxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx tsc",
+    "dev": "npx tsc && node dist/index.js",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvas": "^3.2.1",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.25.1",
+    "disfox": "^0.0.8",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.2",
+    "globals": "^17.4.0"
+  }
+}
